@@ -27,7 +27,7 @@
 1. **Clone** ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/votre-repo/OutlookProfileBackup.git
+   git clone https://github.com/o2Cloud-fr/OutlookProfileBackup.git
 
 ## 🎯 Utilisation
 
