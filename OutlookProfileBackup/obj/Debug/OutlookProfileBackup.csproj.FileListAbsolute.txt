@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\Debug\OutlookProfileBackup.exe.config
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\Debug\OutlookProfileBackup.exe
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\Debug\OutlookProfileBackup.pdb
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\Debug\OutlookProfileBackup.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\Debug\OutlookProfileBackup.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\Debug\OutlookProfileBackup.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\Debug\OutlookProfileBackup.exe
+C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\Debug\OutlookProfileBackup.pdb
