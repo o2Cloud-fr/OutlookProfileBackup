@@ -39,11 +39,11 @@
 
 Après exécution, voici un aperçu des fichiers :
 
-`C:\Users\[NomUtilisateur]\Desktop\`
+`C:\Users\[NomUtilisateur]\Desktop\
 
-`│`
+│
 
-`├── MonBackupOutlook.zip`
+├── MonBackupOutlook.zip`
 
 
 ## Authors
