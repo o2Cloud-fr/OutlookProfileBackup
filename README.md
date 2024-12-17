@@ -17,7 +17,7 @@
 ## 🖥️ Prérequis
 
 - **Windows** 10 ou supérieur  
-- **.NET Framework** 4.5 ou supérieur  
+- **.NET Framework** 4.8.1 ou supérieur  
 - Un profil Outlook configuré.
 
 ---
