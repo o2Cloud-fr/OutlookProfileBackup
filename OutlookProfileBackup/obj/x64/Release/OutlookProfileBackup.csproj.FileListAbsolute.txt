@@ -6,3 +6,10 @@ C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\
 C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.csproj.CoreCompileInputs.cache
 C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.exe
 C:\Users\MyAlien\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.pdb
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\x64\Release\OutlookProfileBackup.exe.config
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\x64\Release\OutlookProfileBackup.exe
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\bin\x64\Release\OutlookProfileBackup.pdb
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.csproj.AssemblyReference.cache
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.csproj.CoreCompileInputs.cache
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.exe
+C:\Users\tech_admin\source\repos\OutlookProfileBackup\OutlookProfileBackup\obj\x64\Release\OutlookProfileBackup.pdb
