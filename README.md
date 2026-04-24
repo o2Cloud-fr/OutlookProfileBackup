@@ -218,18 +218,6 @@ If you have any feedback, please reach out at [github@o2cloud.fr](mailto:github@
 
 ---
 
-## Roadmap
-
-- [ ] Windows Task Scheduler integration for scheduled automatic backups
-- [ ] Graphical user interface (WinForms / WPF) with progress bar
-- [ ] Backup to network share or custom destination path
-- [ ] Windows toast notification on completion
-- [ ] Multi-profile support on a single machine
-- [ ] Backup encryption (password-protected ZIP)
-- [ ] Email notification with backup summary
-
----
-
 ## Support
 
 For support, email [github@o2cloud.fr](mailto:github@o2cloud.fr) or join our Slack channel.
